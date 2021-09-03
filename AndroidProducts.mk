@@ -15,9 +15,13 @@
 #
 
 PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/calyx_kebab.mk \
     $(LOCAL_DIR)/lineage_kebab.mk
 
 COMMON_LUNCH_CHOICES := \
+    calyx_kebab-user \
+    calyx_kebab-userdebug \
+    calyx_kebab-eng \
     lineage_kebab-user \
     lineage_kebab-userdebug \
     lineage_kebab-eng
