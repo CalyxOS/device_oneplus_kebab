@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "05a7853c_fea4d887",
+        "filename": "proprietary-firmware.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-25T11:19:06Z",
+      "side": 1,
+      "message": "TODO handle this",
+      "revId": "78837d26f0d89f44ab0c24db70b492a71bfdb263",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
