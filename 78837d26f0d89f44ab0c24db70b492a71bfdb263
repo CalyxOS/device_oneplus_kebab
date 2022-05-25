@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "864602e0_4ccf05a4",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-25T11:19:23Z",
+      "side": 1,
+      "message": "File list matches https://wiki.lineageos.org/devices/kebab/fw_update\n\nBasically everything in the OTA except the partitions we build.",
+      "revId": "78837d26f0d89f44ab0c24db70b492a71bfdb263",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "05a7853c_fea4d887",
