@@ -1,0 +1,26 @@
+# Firmware from OnePlus8TOxygen_15.O.31_OTA_0310_all_2202182359_ca105dab55fd44e6
+
+abl.img;AB
+logo.img;AB
+aop.img;AB
+bluetooth.img;AB
+cmnlib64.img;AB
+cmnlib.img;AB
+devcfg.img;AB
+dsp.img;AB
+featenabler.img;AB
+hyp.img;AB
+imagefv.img;AB
+keymaster.img;AB
+modem.img;AB
+multiimgoem.img;AB
+qupfw.img;AB
+storsec.img;AB
+tz.img;AB
+uefisecapp.img;AB
+xbl_config.img;AB
+xbl.img;AB
+mdm_oem_stanvbk.img
+spunvm.img
+xbl_lp5.img;AB
+xbl_config_lp5.img;AB
